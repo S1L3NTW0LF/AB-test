@@ -8,6 +8,6 @@ AB testing for a e-commerce website
 5. conclusion is drawn
 
 ### Files
-- Overhaul.ipynb: contains cleaned up version of original notebook
-- Analyze_ab_test_results_notebook(1).ipynb: is original notebook for AB test
-- ab_data.csv: is the data for AB testing from the e-commerce site
+- **Overhaul.ipynb:** contains cleaned up version of original notebook
+- **Analyze_ab_test_results_notebook(1).ipynb:** is original notebook for AB test
+- **ab_data.csv:** is the data for AB testing from the e-commerce site
